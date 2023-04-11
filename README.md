@@ -20,3 +20,5 @@ Each time the generator is used a different list is populated.
 * Unfairness of the World
 * Temptation
 * Feeling Weak and Inadequate 
+## To Run
+Run using node.js and install the script.js file locally.
